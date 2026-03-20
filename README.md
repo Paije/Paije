@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Paije
-- 👀 I’m interested in safety , privacy(that doesn't limit rng)coding and understanding data.
-- 🌱 I’m currently learning data science and creative writing
-- 💞️ I’m looking to collaborate on anything that needs a newbs assistance
-- 📫 How to reach me perfectlove2020@gmail.com
+- 👋 Hi, I’m @Pi
+- 👀 I am interested in maximizing the experience,
+- 🌱 I’m currently cutting edge coding with llms. 
+- 💞️ I’m looking to collaborate connect with others and learning/ teachning
+- 📫 How to reach me at perfectlove2020@gmail.com
 
 <!---
 Paije/Paije is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
